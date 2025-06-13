@@ -41,6 +41,14 @@ chmod +x matrix.sh
 ./matrix.sh
 ```
 
+#### OR
+
+Directly run matrix executable after cloning this repo like above or just downloading the matrix executable file.
+
+```bash
+matrix
+```
+
 ### One-liner Installation
 
 ```bash
