@@ -1,6 +1,14 @@
+<div align="center">
+
 # Matrix Rain Terminal Effect 🌧️
 
 A sleek, customizable terminal-based Matrix rain effect written in pure Bash. Experience the iconic digital rain from The Matrix right in your terminal with smooth animations and configurable characters.
+
+<img src="matrix-rain.gif">
+<br>
+<img src="https://shields.io/badge/made-with%20%20bash-green?style=flat-square&color=d5c4a1&labelColor=1d2021&logo=gnu-bash">
+<img src=https://img.shields.io/badge/Maintained%3F-yes-green.svg></img>
+</div>
 
 ## ✨ Features
 
@@ -12,21 +20,12 @@ A sleek, customizable terminal-based Matrix rain effect written in pure Bash. Ex
 - **Clean Exit** - Proper cleanup and signal handling
 - **Lightweight** - Minimal resource usage
 
-## 🎬 Demo
-
-```
-アイウエオ    123    !@#
-  カキク    456      $%^
-    ケコ    789        &*
-      サ    ABC          (
-        シ  DEF            )
-          ス GHI            -
-            テ JKL            _
-              ト MNO            =
-                ナ PQR            +
-```
-
 ## 🚀 Quick Start
+
+### Use `matrix` without downloading/installing
+```bash
+bash <(curl -s https://raw.githubusercontent.com/mohithn04/matrix/main/matrix)
+```
 
 ### Installation
 
